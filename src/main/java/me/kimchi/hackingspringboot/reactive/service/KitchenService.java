@@ -28,4 +28,8 @@ public class KitchenService {
             new Dish("Sweet & sour beef"));
 
     private Random picker =  new Random();
+
+    public Flux<Dish> catchDishes() {
+        return Flux.<Dish> just();
+    }
 }
