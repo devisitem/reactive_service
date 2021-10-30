@@ -1,6 +1,6 @@
-package me.kimchi.hackingspringboot.reactive.service;
+package me.kimchi.hackingspringboot.reactive.ch_01.service;
 
-import me.kimchi.hackingspringboot.reactive.Dish;
+import me.kimchi.hackingspringboot.reactive.ch_01.Dish;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 

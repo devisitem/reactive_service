@@ -1,4 +1,4 @@
-package me.kimchi.hackingspringboot.reactive;
+package me.kimchi.hackingspringboot.reactive.ch_01;
 
 import lombok.Getter;
 import lombok.Setter;
